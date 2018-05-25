@@ -1,0 +1,13 @@
+#collaborative_div, #k-nearest_div {
+    margin-bottom: 1em;
+    width: 100%;
+}
+
+.track_table {
+    max-width: 100%;
+    border-collapse: collapse;
+}
+
+.track_table, .track_table td, .track_table tr, .track_table th {
+    border: 2px solid #000000;
+}
